@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi, I'm Asterisq!
 
 You can use the [editor on GitHub](https://github.com/kale-eb/asterisq/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
