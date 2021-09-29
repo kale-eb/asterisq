@@ -4,13 +4,17 @@ Just your friendly neighborhood inactive content creator, minecraft player, and 
 
 ## Some examples of videos I do!
 
-Explanation videos
-[![Video]({https://cdn.discordapp.com/attachments/810651060683014144/892575808760184872/freelook.jpg})]({https://youtu.be/8TRcJnWrXVo} "Freelook is BANNED from Hypixel - here's why it was a mistake.")
+#Explanation videos
+#[Freelook was banned - why this was a mistake](https://youtu.be/8TRcJnWrXVo)
+![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892575808760184872/freelook.jpg)
 
-Editing/Montages
-[![Video]({https://cdn.discordapp.com/attachments/810651060683014144/892576175254282250/deemons_30k.jpg})]({https://youtu.be/DEUf0TP5uRQ} "Deemons 30k Pack Showcase")
+#Editing/Montages
+#[Deemons 1200 Star Bedwars Montage](https://youtu.be/JlkFOh4bGto)
+![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892580238956040252/1.2k_montage.jpg)
 
-[![Video]({https://cdn.discordapp.com/attachments/810651060683014144/892577748227342366/clutch_edit_thumbnail.png})]({https://youtu.be/ylmRQNBETZg} "The Best Block Clutch/Combo Montage")
+#[the best block clutch/combo montage](https://youtu.be/ylmRQNBETZg)
+![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892577748227342366/clutch_edit_thumbnail.png)
+
 ```markdown
 Syntax highlighted code block
 
