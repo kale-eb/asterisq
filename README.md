@@ -1,13 +1,16 @@
-## Hi, I'm Asterisq!
+# Hi, I'm Asterisq!
 
-You can use the [editor on GitHub](https://github.com/kale-eb/asterisq/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Just your friendly neighborhood inactive content creator, minecraft player, and editor! You can find my youtube [here!](https://youtube.com/asterisq)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Some examples of videos I do!
 
-### Markdown
+Explanation videos
+[![Video]({https://cdn.discordapp.com/attachments/810651060683014144/892575808760184872/freelook.jpg})]({https://youtu.be/8TRcJnWrXVo} "Freelook is BANNED from Hypixel - here's why it was a mistake.")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Editing/Montages
+[![Video]({https://cdn.discordapp.com/attachments/810651060683014144/892576175254282250/deemons_30k.jpg})]({https://youtu.be/DEUf0TP5uRQ} "Deemons 30k Pack Showcase")
 
+[![Video]({https://cdn.discordapp.com/attachments/810651060683014144/892577748227342366/clutch_edit_thumbnail.png})]({https://youtu.be/ylmRQNBETZg} "The Best Block Clutch/Combo Montage")
 ```markdown
 Syntax highlighted code block
 
