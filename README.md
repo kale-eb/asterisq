@@ -5,14 +5,14 @@ Just your friendly neighborhood inactive content creator, minecraft player, and 
 ## Some examples of videos I do!
 
 #Explanation videos
-#[Freelook was banned - why this was a mistake](https://youtu.be/8TRcJnWrXVo)
+[Freelook was banned - why this was a mistake](https://youtu.be/8TRcJnWrXVo)
 ![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892575808760184872/freelook.jpg)
 
 #Editing/Montages
-#[Deemons 1200 Star Bedwars Montage](https://youtu.be/JlkFOh4bGto)
+[Deemons 1200 Star Bedwars Montage](https://youtu.be/JlkFOh4bGto)
 ![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892580238956040252/1.2k_montage.jpg)
 
-#[the best block clutch/combo montage](https://youtu.be/ylmRQNBETZg)
+[the best block clutch/combo montage](https://youtu.be/ylmRQNBETZg)
 ![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892577748227342366/clutch_edit_thumbnail.png)
 
 ```markdown
