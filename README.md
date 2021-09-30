@@ -9,38 +9,22 @@ Some examples of videos I do!
 Explanation videos
 ------------------
 
-[Freelook was banned - why this was a mistake](https://youtu.be/8TRcJnWrXVo) ![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892575808760184872/freelook.jpg)
+[Freelook was banned - why this was a mistake](https://youtu.be/8TRcJnWrXVo) 
+![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892575808760184872/freelook.jpg =960x540)
 
 Editing/Montages
 ----------------
 
-[Deemons 1200 Star Bedwars Montage](https://youtu.be/JlkFOh4bGto) ![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892580238956040252/1.2k_montage.jpg)
+[Deemons 1200 Star Bedwars Montage](https://youtu.be/JlkFOh4bGto) ![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892580238956040252/1.2k_montage.jpg =960x540)
 
-[the best block clutch/combo montage](https://youtu.be/ylmRQNBETZg) ![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892577748227342366/clutch_edit_thumbnail.png)
+[the best block clutch/combo montage](https://youtu.be/ylmRQNBETZg) ![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892577748227342366/clutch_edit_thumbnail.png =960x540)
 
-    Syntax highlighted code block
-    
-    # Header 1
-    ## Header 2
-    ### Header 3
-    
-    - Bulleted
-    - List
-    
-    1. Numbered
-    2. List
-    
-    **Bold** and _Italic_ and `Code` text
-    
-    [Link](url) and ![Image](src)
-    
+# Join my discord for editing, previews, bedwars games, and just a good community in general at [this link!](https://discord.gg/mBvwC4pRdb)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I host events, giveaways, and more on the discord!
 
-### Jekyll Themes
+# Right Now:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kale-eb/asterisq/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## AsterEC
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My editing contest is going on right now! Visit [this video](https://youtu.be/nRH1nLn0sJU) and join my [discord server](https://discord.gg/mBvwC4pRdb) to learn more! Deadline is Oct 16. Good luck to all contestants!
