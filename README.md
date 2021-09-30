@@ -31,6 +31,6 @@ ______________________________________________
 ## AsterEC
 
 My editing contest is going on right now! Visit [this video](https://youtu.be/nRH1nLn0sJU) and join my [discord server](https://discord.gg/mBvwC4pRdb) to learn more! Deadline is Oct 16. Good luck to all contestants!
-![thumbnail](https://i9.ytimg.com/vi/nRH1nLn0sJU/maxresdefault.jpg?time=1633027800000&sqp=CNiN2IoG&rs=AOn4CLC2ZRIasHxRZyIQjSWLtMKzsmLuKg)
+![thumbnail](https://i.imgur.com/d2LOAcx.gif)
 
 ______________________________________________
