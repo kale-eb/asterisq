@@ -1,4 +1,4 @@
-Hi, I'm Asterisq!
+# Hi! I'm Asterisq!
 =================
 
 Just your friendly neighborhood inactive content creator, minecraft player, and editor! You can find my youtube [here!](https://youtube.com/asterisq)
@@ -19,7 +19,7 @@ Editing/Montages
 
 [the best block clutch/combo montage](https://youtu.be/ylmRQNBETZg) ![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892577748227342366/clutch_edit_thumbnail.png)
 
-# Join my discord for editing, previews, bedwars games, and just a good community in general at [this link!](https://discord.gg/mBvwC4pRdb)
+## Join my discord for editing, previews, bedwars games, and just a good community in general at [this link!](https://discord.gg/mBvwC4pRdb)
 
 I host events, giveaways, and more on the discord!
 
