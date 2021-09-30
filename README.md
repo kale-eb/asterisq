@@ -1,9 +1,9 @@
 # Hi! I'm Asterisq!
-=================
+______________________________________________
 
 ## Just your friendly neighborhood inactive content creator, minecraft player, and editor! You can find my youtube [here!](https://youtube.com/asterisq)
 
-# Some examples of videos I do!
+# Some of my content
 ______________________________________________
 
 ## Explanation videos
