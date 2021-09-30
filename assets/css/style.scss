@@ -7,4 +7,6 @@
     background-color: #849db5;
     background-image: url("/images/banner.jpg");
 }
-h1 {color: #000000;} h2 {color: #000000;} h3 {color: #000000;}
+.main-content h1, .main-content h2, .main-content h3 {
+    color: #000000;
+}
