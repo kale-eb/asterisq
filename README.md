@@ -1,5 +1,3 @@
-h1 {color: #ffffff;} h2 {color: #ffffff;} h3 {color: #ffffff;}
-
 Hi, I'm Asterisq!
 =================
 
