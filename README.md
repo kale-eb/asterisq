@@ -1,21 +1,20 @@
 # Hi! I'm Asterisq!
-______________________________________________
+
 
 ## Just your friendly neighborhood inactive content creator, minecraft player, and editor! You can find my youtube [here!](https://youtube.com/asterisq)
 
 # Some of my content
-______________________________________________
+
 
 ## Explanation videos
 
-______________________________________________
+
 
 [Freelook was banned - why this was a mistake](https://youtu.be/8TRcJnWrXVo) 
 ![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892575808760184872/freelook.jpg)
 
 ## Editing/Montages
 
-______________________________________________
 
 [Deemons 1200 Star Bedwars Montage](https://youtu.be/JlkFOh4bGto) ![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892580238956040252/1.2k_montage.jpg)
 
@@ -27,7 +26,6 @@ I host events, giveaways, and more on the discord!
 
 # Right Now:
 
-______________________________________________
 
 ## AsterEC
 
