@@ -20,6 +20,9 @@
 
 [the best block clutch/combo montage](https://youtu.be/ylmRQNBETZg) ![thumbnail](https://cdn.discordapp.com/attachments/810651060683014144/892577748227342366/clutch_edit_thumbnail.png)
 
+# Community
+
+
 ## Join my discord for editing, previews, bedwars games, and just a good community in general at [this link!](https://discord.gg/mBvwC4pRdb)
 
 I host events, giveaways, and more on the discord!
