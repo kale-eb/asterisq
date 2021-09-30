@@ -1,7 +1,3 @@
-/*
-Title: Asterisq MC
-*/
-
 # Hi! I'm Asterisq
 
 ## Just your friendly neighborhood inactive content creator, minecraft player, and editor! You can find my youtube [here!](https://youtube.com/asterisq)
